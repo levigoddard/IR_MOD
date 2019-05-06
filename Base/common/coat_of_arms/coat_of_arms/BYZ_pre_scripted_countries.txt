@@ -1,0 +1,10 @@
+BYZ = {
+	pattern = "pattern_solid.tga"
+	color1 = "dark_purple"
+	color2 = "roman_gold"
+
+	colored_emblem = {
+		texture = "ce_roman_eagle.dds"
+		color1 = "roman_gold"
+	}
+}
