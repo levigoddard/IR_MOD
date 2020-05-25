@@ -13,7 +13,7 @@
 			country_culture_group = hellenic
 			country_culture_group = dacian
 			country_culture_group = illyrian_group
-			country_culture_group = byzantine
+			tag = BYZ
 		}
 		NOT = { tag = BAC }
 		NOT = { tag = EGY }

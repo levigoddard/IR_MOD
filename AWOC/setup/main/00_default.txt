@@ -6213,7 +6213,7 @@ provinces = { #Any entry must contain a comment with city name.
 		modifier = { modifier = alexandria always = yes }
 		library_building = 1
 		commerce_building = 3
-		
+		fortress_building = 1
 		
 		
 		
@@ -6405,6 +6405,11 @@ provinces = { #Any entry must contain a comment with city name.
 	#Bosporus
 	1453 = {
 		modifier = { modifier = bosporus always = yes }
+		modifier = { modifier = pyramid_complex always = yes }
+		aqueduct_building = 1
+		library_building = 3
+		commerce_building = 2
+		fortress_building = 1
 	}
 	240 = {
 		modifier = { modifier = bosporus always = yes }
@@ -6776,6 +6781,10 @@ road_network = {
 	5 = 6		#Fundi - Volternum
 	6 = 8		#Volternum - Telesia
 	
+#Byzantine roads - Marmara route
+	#1453 = 
+
+
 	#Persian Royal Road - Northern Route
 	287 = 291 #Smyrna - Colophon
 	291 = 294 #Colophon - Larisa
