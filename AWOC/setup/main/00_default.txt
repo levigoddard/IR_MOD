@@ -12362,7 +12362,7 @@ country = {
 			family = 9
 			family = 10
 			government = stratocratic_monarchy
-			primary_culture = peloponnesian
+			primary_culture = spartan
 			religion = roman_pantheon
 			
 			technology={
